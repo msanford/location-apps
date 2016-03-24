@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5D1C773CDEF8973118F94BD301309A385AFCCD36",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "45AFE36EC2C72DD12CCE08E7221B7F0437B6F06F" : 0,
+    "5D1C773CDEF8973118F94BD301309A385AFCCD36" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2A13CE4D-1D16-4B5A-BC26-E5A1E7004548",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "45AFE36EC2C72DD12CCE08E7221B7F0437B6F06F" : "socialradar\/iOS-App\/",
+    "5D1C773CDEF8973118F94BD301309A385AFCCD36" : "location-apps\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LocationKitApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LocationKitApp.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com:github.com\/LocationKit\/iOS-App.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "45AFE36EC2C72DD12CCE08E7221B7F0437B6F06F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/msanford\/location-apps.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5D1C773CDEF8973118F94BD301309A385AFCCD36"
+    }
+  ]
+}
